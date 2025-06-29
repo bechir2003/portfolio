@@ -31,4 +31,14 @@ This project is an AI-powered chatbot designed to support mental health through 
 git clone https://github.com/bechir2003/portfolio.git
 cd portfolio/MentalHealthSupport
 
+### 2. Install dependencies
+
+```bash
+pip install -r requirements.txt
+
+### 3. Run the chatbot
+
+```bash
+streamlit run app.py
+
 
